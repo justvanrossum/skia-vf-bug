@@ -1,8 +1,9 @@
 # skia-vf-bug
 
-https://github.com/kyamagu/skia-python/issues/113
-
 Test repo to reproduce an issue with skia-python and variable fonts
+
+https://github.com/kyamagu/skia-python/issues/113
+https://github.com/justvanrossum/drawbot-skia/issues/1
 
 `python vftest.py`
 
