@@ -1,1 +1,1 @@
-skia-python
+skia-python==87.1
